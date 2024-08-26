@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1>Welcome intial deployment</h1>
-<h2>pool SCM</h2>
+<h1>Welcome the procorp family</h1>
+<h2>Enter the details</h2>
 </body>
 <body style="color:red;">
  <div class="container">
