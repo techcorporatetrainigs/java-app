@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome the Procorp Corporate trainings</h1>
+<h1>Welcome the Procorp Corporate trainings, checking the pool SCM</h1>
 <h2>Enter the details</h2>
 </body>
 <body style="color:red;">
