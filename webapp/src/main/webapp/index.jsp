@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome the SVInfoTech family</h1>
+<h1>Welcome the SVInfoTech Corporate trainings</h1>
 <h2>Enter the details</h2>
 </body>
 <body style="color:red;">
